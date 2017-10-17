@@ -1,0 +1,18 @@
+@import url(https://cdn.rawgit.com/afonsof/jenkins-material-theme/gh-pages/dist/material-cyan.css);
+
+#jenkins-head-icon {
+    display: none;
+}
+
+#jenkins-name-icon {
+    display: none;
+}
+
+#jenkins-home-link {
+    display: block;
+    height: 40px;
+    width: 96px;
+    background-image: url(cql-build-logo-jenkins-white.png);
+    background-size: 96px 40px;
+}
+
